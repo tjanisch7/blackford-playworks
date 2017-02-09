@@ -1,0 +1,165 @@
+body {
+	background-color: #f6f6f6;
+	height: 1500px;
+}
+
+a {
+	color: #fbbc05;
+
+}
+
+a:hover {
+	color: #fbbc05;  
+}
+
+.navbar-inverse {
+	background-image: linear-gradient(to bottom,#7a39b5 0,#222 100%);
+	margin-bottom: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.navbar .navbar-brand {
+	color: #fbbc05;
+	font-weight: bold;
+}
+.navbar .navbar-brand:hover {
+	color: #fbbc05;
+	cursor: pointer;
+}
+
+.navbar-inverse .navbar-nav li a {
+	color: #fbbc05;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+	color: #fbbc05;
+	cursor: pointer;
+}
+
+.jumbotron {
+	height: 800px;
+	background: url(http://www.playworks.org/sites/default/files/about-playworks.jpg);
+	background-size: 100% 100%;
+	padding-top: 10px;
+}
+
+.jumbotron .btn-info {
+	background-color: #5f07af;
+	background-image: none;
+	border: none;
+	margin-top: 400px;
+	width: 200px;
+}
+
+.jumbotron .btn-info:hover {
+	background-color: #fff;
+	color: #5f07af;
+	transition-duration: 0.5s;
+}
+
+.jumbotron .btn-info a {
+	color: #fff;
+	font-family: 'Acme', sans-serif;
+}
+
+.jumbotron .btn-info a:hover {
+	color: #5f07af;
+}
+
+#header-msg {
+	color: #5f07af; 
+	font-family: 'Acme', sans-serif;
+	font-size: 30px;
+}
+
+h1 {
+	color: #5f07af; 
+	font-family: 'Acme', sans-serif;
+}
+
+h3	{
+	color: #5f07af;
+	font-family: 'Acme', sans-serif;
+	margin-left: 50px;
+}
+
+ p {
+ 	font-family: 'Caveat Brush', cursive;
+	font-size: 26px;
+	padding-bottom: 30px;
+	padding-top: 15px;
+}
+
+button {
+	margin-left: 50px;
+}
+
+#junior1, #junior2, #junior3 {
+	color: #5f07af; 
+	font-family: 'Acme', sans-serif;
+}
+
+#info1 {
+	font-size: 18px;
+}
+
+#info2 {
+	font-size: 18px;
+}
+
+#info3 {
+	font-size: 18px;
+}
+
+#footer {
+	background: url(../img/playground.jpg);
+	background-size: cover;
+	height: 600px;
+}
+
+#footer > h1 {
+	padding-top: 20px;
+}
+
+.kick-ball {
+	font-size: 20px;
+	padding-left: 30px;
+}
+
+.tag {
+	font-family: 'Caveat Brush', cursive;
+	font-size: 20px;
+	list-style: none;
+	padding-top: 20px;
+}
+
+.fourSquare {
+	font-size: 20px;
+	padding-left: 60px;
+}
+
+.teamSports {
+	font-size: 20px;
+	padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
